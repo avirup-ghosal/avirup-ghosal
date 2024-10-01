@@ -4,7 +4,7 @@
 <h1 align=center> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, Avirup Ghosal here </h1>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align = center>
-  <a href = "https://www.linkedin.com/in//](https://www.linkedin.com/in/avirup-ghosal-7bb038289/">
+  <a href = "https://www.linkedin.com/in/avirup-ghosal-7bb038289/">
   <img align = center alt="AvirupGhosal | LinkedIn" width="22px" src="./linkedin.svg" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href = "mailto:avirup.ghosal2023@uem.edu.in">
@@ -67,6 +67,6 @@
 <h1></h1>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[linkedin]: https://www.linkedin.com/in/avirup-ghosal-7bb038289/
+[linkedin]:https://www.linkedin.com/in/avirup-ghosal-7bb038289/
 [gmail]:mailto:avirup.ghosal2023@uem.edu.in
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
